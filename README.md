@@ -1,7 +1,7 @@
 # TicTacTocGame   
 ###### Tic Tac Toc Game Rule for must winning:-   
 1. Whoever Will start the game if he selects the corner box then definitely he will win..   
-2. 2. Me:- selected yellow Corner   
+2. 2. Me:- selected yellow(color) Corner   
 3. 3. You:- selected middlebox out of 8 remaining (you can select anyone out of 8)   
 4. 4. Me:- Again selected Corner   
 5. 5. You: Trying to stop me from winning    
